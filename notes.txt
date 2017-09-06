@@ -1,0 +1,8 @@
+Linux hurts brain.
+Hard type fast.
+
+COOL STUFF
+- locate = finds a file
+- echo $0
+- grep - find contents of files
+- less
